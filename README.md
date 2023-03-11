@@ -3,8 +3,8 @@
 ![Screen Shot](https://github.com/ShotMeow/rise-of-realistic-pack/blob/main/assets/landing.png)
 
 <h2>Ссылки для скачивания</h2>
-<a href="https://disk.yandex.ru/d/AmtmdJX6fJT3Xg">Yandex Disk</a>ㅤ
-<a href="https://drive.google.com/file/d/1PkD1Vi1mx_uilKx-tnvYK5GC1S06FrnP/view?usp=sharing">Google Disk</a>
+<a href="https://disk.yandex.ru/d/nzBUIi87yumgZQ">Yandex Disk</a>ㅤ
+<a href="https://drive.google.com/file/d/1azxFd5owBpXyj6qhB-1Xpco4UIjU0VLd/view?usp=sharing">Google Disk</a>
 
 
 <h2>Установка</h2>
