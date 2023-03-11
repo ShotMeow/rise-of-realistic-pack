@@ -65,7 +65,6 @@
   <li>Immersive Armors</li>
   <li>Lamd Dynamic Lights</li>
   <li>LevelZ</li>
-  <li>Logical Zoom</li>
   <li>More Villagers</li>
   <li>Not Enough Animations</li>
   <li>Plushie</li>
